@@ -1,0 +1,22 @@
+[
+  {
+    "title": "English Song Title",
+    "lang": "english",
+    "src": "https://raw.githack.com/chanbai955/mp3/main/english-song.mp3"
+  },
+  {
+    "title": "Tamil Song Title",
+    "lang": "tamil",
+    "src": "https://raw.githack.com/chanbai955/mp3/main/tamil-song.mp3"
+  },
+  {
+    "title": "Hindi Song Title",
+    "lang": "hindi",
+    "src": "https://raw.githack.com/chanbai955/mp3/main/hindi-song.mp3"
+  },
+  {
+    "title": "Malay Song Title",
+    "lang": "malay",
+    "src": "https://raw.githack.com/chanbai955/mp3/main/malay-song.mp3"
+  }
+]
